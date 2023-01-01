@@ -1,0 +1,14 @@
+com\rapmit\orderservice\OrderServiceApplication.class
+com\rapmit\orderservice\model\Order.class
+com\rapmit\orderservice\config\WebClientConfig.class
+com\rapmit\orderservice\model\OderLineItems$OderLineItemsBuilder.class
+com\rapmit\orderservice\service\OrderService.class
+com\rapmit\orderservice\model\OderLineItems.class
+com\rapmit\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\rapmit\orderservice\dto\OrderLineItemDto.class
+com\rapmit\orderservice\model\Order$OrderBuilder.class
+com\rapmit\orderservice\repository\OrderRepository.class
+com\rapmit\orderservice\dto\InventoryResponse.class
+com\rapmit\orderservice\service\OrderServiceImpl.class
+com\rapmit\orderservice\dto\OrderRequest.class
+com\rapmit\orderservice\controller\OrderController.class

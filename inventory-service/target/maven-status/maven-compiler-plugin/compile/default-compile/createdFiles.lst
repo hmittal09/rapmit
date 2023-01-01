@@ -1,0 +1,9 @@
+com\rapmit\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\rapmit\inventoryservice\dto\InventoryResponse.class
+com\rapmit\inventoryservice\model\Inventory.class
+com\rapmit\inventoryservice\controller\InventoryController.class
+com\rapmit\inventoryservice\InventoryServiceApplication.class
+com\rapmit\inventoryservice\model\Inventory$InventoryBuilder.class
+com\rapmit\inventoryservice\repository\InventoryRepository.class
+com\rapmit\inventoryservice\service\InventoryServiceImpl.class
+com\rapmit\inventoryservice\service\InventoryService.class

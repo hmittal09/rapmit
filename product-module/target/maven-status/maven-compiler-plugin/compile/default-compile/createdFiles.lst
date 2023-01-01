@@ -1,0 +1,11 @@
+com\rapmit\productservice\controller\ProductController.class
+com\rapmit\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\rapmit\productservice\model\Product.class
+com\rapmit\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\rapmit\productservice\repository\ProductRepository.class
+com\rapmit\productservice\service\ProductService.class
+com\rapmit\productservice\service\ProductServiceImpl.class
+com\rapmit\productservice\model\Product$ProductBuilder.class
+com\rapmit\productservice\dto\ProductRequest.class
+com\rapmit\productservice\dto\ProductResponse.class
+com\rapmit\productservice\ProductServiceApplication.class
